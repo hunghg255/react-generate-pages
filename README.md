@@ -82,7 +82,7 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
 
 **Example:**
 
-[exmaple](/playground)
+[example](/playground)
 
 ```bash
 # folder structure
